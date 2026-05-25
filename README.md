@@ -21,7 +21,7 @@ O projeto foi desenvolvido como parte de um trabalho acadêmico e portfólio pes
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+   git clone https://github.com/Steffanosilva/sistema-de-gestao-academica.git
    
 2. Acesse a pasta do projeto:
    ```bash
