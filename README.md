@@ -25,7 +25,7 @@ O projeto foi desenvolvido como parte de um trabalho acadêmico e portfólio pes
    
 2. Acesse a pasta do projeto:
    ```bash
-   cd nome-do-repositorio
+   cd sistema-de-gestao-academica
   
 3. Compile o código-fonte:
    ```bash
